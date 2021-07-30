@@ -29,6 +29,8 @@ $ yarn dev:server
 # acesse a pasta do projeto front-end
 $ cd web
 
+# Renomeio o arquivo .env.example para .env
+
 # Instale todas as dependências do projeto
 $ yarn / npm install
 
